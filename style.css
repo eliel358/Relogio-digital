@@ -1,0 +1,19 @@
+body{
+    background-color: #0e0f19;
+    color: #fffdf7;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    font-size: 35px;
+    border-bottom: 1px solid #fffdf7;
+}
+.botao{
+    font-size: 50px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.relogio{
+    margin-top: 6.25%;
+    font-size: 200px;
+}
