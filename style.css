@@ -4,9 +4,12 @@ body{
     text-align: center;
 }
 nav{
-    text-align: center;
+    display: flex;
     font-size: 35px;
     border-bottom: 1px solid #fffdf7;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 34px;
 }
 .botao{
     
